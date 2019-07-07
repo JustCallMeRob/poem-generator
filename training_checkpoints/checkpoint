@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Zoli\\PycharmProjects\\Poem_Bot\\training_checkpoints\\ckpt_10"
+all_model_checkpoint_paths: "C:\\Users\\Zoli\\PycharmProjects\\Poem_Bot\\training_checkpoints\\ckpt_10"
